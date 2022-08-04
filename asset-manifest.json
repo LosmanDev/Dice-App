@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dice-App/static/css/main.eee1c236.css",
+    "main.js": "/Dice-App/static/js/main.f8b4272b.js",
+    "static/js/787.4362262f.chunk.js": "/Dice-App/static/js/787.4362262f.chunk.js",
+    "index.html": "/Dice-App/index.html",
+    "main.eee1c236.css.map": "/Dice-App/static/css/main.eee1c236.css.map",
+    "main.f8b4272b.js.map": "/Dice-App/static/js/main.f8b4272b.js.map",
+    "787.4362262f.chunk.js.map": "/Dice-App/static/js/787.4362262f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eee1c236.css",
+    "static/js/main.f8b4272b.js"
+  ]
+}
