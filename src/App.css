@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.slatt {
+  font-weight: 900;
+  font-family: Brush Script MT;
+  font-size: 8rem;
+  color: #00ff00;
+}
+
+/* ----------- iPhone X ----------- */
+/* Portrait */
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
+  .App {
+    margin-left: auto;
+  }
+}
